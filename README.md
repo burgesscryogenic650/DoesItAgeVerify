@@ -1,2 +1,27 @@
-# DoesItAgeVerify
-The age verification status of Open Source Operating Systems
+This page is a running list of Open Source Operating Systems (Linux & *BSD distributions, etc.) and what their current status is regarding age verification.
+
+There are several locales which have laws (in various stages) which require Operating Systems themselves to perform some level of age verification and reporting.
+
+Passed OS-Level Age Verification Laws:[Brazil](https://x.com/lundukejournal/status/2033927808196481101), & [California](https://x.com/lundukejournal/status/2026783141298360692).
+
+Proposed OS-Level Age Verification Laws:[Colorado](https://x.com/lundukejournal/status/2026331487499370988), [Illinois](https://x.com/lundukejournal/status/2031047619225493597), & [New York](https://x.com/lundukejournal/status/2029081398577922173?s=61).
+
+### Operating Systems Not Implementing Age Verification
+
+The developers or publishers of these open source Operating Systems have decided to not implement Age Verification.
+
+| &nbsp; | Operating System | Notes |
+| - | - | - |
+| :no_entry: | **Midnight BSD** | [License forbids usage in Brazil, California](https://github.com/MidnightBSD/src?tab=License-1-ov-file) |
+
+### Operating Systems Which Have Already Implemented Age Verification
+
+As of the most recent update to this document, no known Open Source Operating Systems have fully complied with legal Age Verification requirements for Brazil or California.
+
+### Operating Systems Planning to Implement Age Verification
+
+| &nbsp; | Operating System | Notes |
+| - | - | - |
+| :white_check_mark: | **Ubuntu** | [Planning Discussion](https://lists.ubuntu.com/archives/ubuntu-devel/2026-March/043510.html), [Ubuntu VP Statement](https://x.com/lundukejournal/status/2029198322309681311) |
+
+
